@@ -2,13 +2,9 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #e6e6e6;
-
-
-background: #673AB7; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #673AB7 , #512DA8); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #673AB7 , #512DA8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
-
+	background: #DA22FF; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #DA22FF , #9733EE); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #DA22FF , #9733EE); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .outer {
@@ -26,19 +22,16 @@ html {
     display: table;
     margin: auto;
     margin-top: 4%;
-    /*background-color: #FFCC00;*/
 }
 
 body {
     display: table-cell;
     vertical-align: middle;
-
-
 }
 
 
 h3 {
-	margin-left: 10px;
+    margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 5px;
     font-family: 'Montserrat', sans-serif;
@@ -61,15 +54,13 @@ h3 img {
 img {
 	width: 300px;
 	margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-top: 0px;
-    border-style: solid;
-    border-width: 3px;
-    border-color: #e6e6e6;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #e6e6e6;
 }
-
-
 
 .info {
 	border-style: solid;
@@ -78,19 +69,16 @@ img {
 	margin: 10px;
 	margin-top: 0;
 	color: #e6e6e6;
-
-
-background: #e53935; /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #e53935 , #e35d5b); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+	background: #e53935; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #e53935 , #e35d5b); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #e53935 , #e35d5b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .fact {
 	font-style: italic;
 	margin-left: 15px;
-    margin-right: 15px;
-    font-size: 13px;
+	margin-right: 15px;
+	font-size: 13px;
 }
 
 span {
@@ -106,7 +94,7 @@ ul {
 
 .description {
 	font-size: 14px;
-    font-style: oblique;
-    margin-left: 10px;
-    margin-right: 10px;
+	font-style: oblique;
+	margin-left: 10px;
+	margin-right: 10px;
 }
